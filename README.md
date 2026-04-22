@@ -1,2 +1,2 @@
 # CoreJava
-I have solved multiple questions on all core java concepts.
+I have solved multiple questions on Array concepts.
